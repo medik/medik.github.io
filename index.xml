@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>this is not another mental breakdown.</title>
+    <link>https://medik.github.io/index.xml</link>
+    <description>Recent content on this is not another mental breakdown.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Feb 2017 03:16:52 +0100</lastBuildDate>
+    <atom:link href="https://medik.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hello world fuckers</title>
+      <link>https://medik.github.io/post/test/</link>
+      <pubDate>Sun, 12 Feb 2017 03:16:52 +0100</pubDate>
+      
+      <guid>https://medik.github.io/post/test/</guid>
+      <description>&lt;p&gt;Yes. Hello world. I am a nobody. Carry on.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
