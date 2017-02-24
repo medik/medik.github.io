@@ -6,8 +6,62 @@
     <description>Recent content on this is not another mental breakdown.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Feb 2017 03:16:52 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 24 Feb 2017 10:11:24 +0100</lastBuildDate>
     <atom:link href="https://medik.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Projects</title>
+      <link>https://medik.github.io/projects/</link>
+      <pubDate>Fri, 24 Feb 2017 10:11:24 +0100</pubDate>
+      
+      <guid>https://medik.github.io/projects/</guid>
+      <description>
+
+&lt;p&gt;I got a lot of projects going on. Too bad I&amp;rsquo;m not going to finish them all&amp;hellip;
+Or am I? However, here is a list of most projects I&amp;rsquo;m working on right now.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-list&#34;&gt;The list&lt;/h2&gt;
+
+&lt;h3 id=&#34;stacken&#34;&gt;Stacken&lt;/h3&gt;
+
+&lt;p&gt;Currently I&amp;rsquo;m the secretary for Stacken. Which means I&amp;rsquo;m attending meetings and
+has the responsibility to handle meeting details and stuff like that.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The computer club Stacken website&lt;/li&gt;
+&lt;li&gt;Play around with authentication in RADIUS + Python&lt;/li&gt;
+&lt;li&gt;Move the personal data about Stacken members to Elastic&lt;/li&gt;
+&lt;li&gt;Make it easier to add a member to Stackens list of members&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;housing-market&#34;&gt;Housing market&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;??? (yeah, I think it&amp;rsquo;s mostly done. But weird bugs need to be fixed, right?)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;food&#34;&gt;Food&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Redo the food repo in YAML&lt;/li&gt;
+&lt;li&gt;Make a list of food that can be replaced (and how it can be replaced)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;games&#34;&gt;Games&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Blockwars! Will do it in LÖVE.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;school&#34;&gt;School&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Implementing S-band and UHF in SDR with a sampler.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So yeah; I got stuff to do. Lets watch some more youtube videos&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>hello world fuckers</title>
