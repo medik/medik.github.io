@@ -10,7 +10,7 @@
     <atom:link href="https://medik.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Projects</title>
+      <title>Bio</title>
       <link>https://medik.github.io/projects/</link>
       <pubDate>Fri, 24 Feb 2017 10:11:24 +0100</pubDate>
       
@@ -18,48 +18,46 @@
       <description>
 
 &lt;p&gt;I got a lot of projects going on. Too bad I&amp;rsquo;m not going to finish them all&amp;hellip;
-Or am I? However, here is a list of most projects I&amp;rsquo;m working on right now.&lt;/p&gt;
+Or am I? However, here is a list of most projects I&amp;rsquo;m worked on.&lt;/p&gt;
 
-&lt;h2 id=&#34;the-list&#34;&gt;The list&lt;/h2&gt;
+&lt;h1 id=&#34;hobbies&#34;&gt;Hobbies&lt;/h1&gt;
 
-&lt;h3 id=&#34;stacken&#34;&gt;Stacken&lt;/h3&gt;
+&lt;h2 id=&#34;assocation&#34;&gt;Assocation&lt;/h2&gt;
 
-&lt;p&gt;Currently I&amp;rsquo;m the secretary for Stacken. Which means I&amp;rsquo;m attending meetings and
-has the responsibility to handle meeting details and stuff like that.&lt;/p&gt;
+&lt;p&gt;I am currently secretary for Stacken which means that I am responible for external
+and internal communication.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;The computer club Stacken website&lt;/li&gt;
-&lt;li&gt;Play around with authentication in RADIUS + Python&lt;/li&gt;
-&lt;li&gt;Move the personal data about Stacken members to Elastic&lt;/li&gt;
-&lt;li&gt;Make it easier to add a member to Stackens list of members&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h2 id=&#34;programming&#34;&gt;Programming&lt;/h2&gt;
 
-&lt;h3 id=&#34;housing-market&#34;&gt;Housing market&lt;/h3&gt;
+&lt;h3 id=&#34;loopiaupdate&#34;&gt;loopiaupdate&lt;/h3&gt;
 
-&lt;ul&gt;
-&lt;li&gt;??? (yeah, I think it&amp;rsquo;s mostly done. But weird bugs need to be fixed, right?)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;loopiaupdate is a program written in Python that connects to loopia and updates
+the ip for a domain.&lt;/p&gt;
 
-&lt;h3 id=&#34;food&#34;&gt;Food&lt;/h3&gt;
+&lt;h3 id=&#34;imgdown&#34;&gt;ImgDown&lt;/h3&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Redo the food repo in YAML&lt;/li&gt;
-&lt;li&gt;Make a list of food that can be replaced (and how it can be replaced)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;ImgDown is a program written in Ruby that is supposed to download image urls if
+it match a Regular Expression.&lt;/p&gt;
 
-&lt;h3 id=&#34;games&#34;&gt;Games&lt;/h3&gt;
+&lt;h3 id=&#34;restaurantq&#34;&gt;RestaurantQ&lt;/h3&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Blockwars! Will do it in LÖVE.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;This is a program that retrieves the current lunch from Restaurant Q at KTH.&lt;/p&gt;
 
-&lt;h3 id=&#34;school&#34;&gt;School&lt;/h3&gt;
+&lt;p&gt;I also contribute to open source projects such as iputils, qlmarkdown and
+hugo-steam-theme.&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;Implementing S-band and UHF in SDR with a sampler.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;On my spear time I trying to learn other programming language. I would say that
+I am on beginner level in Haskell, C and Go. My favorite language is Python, but
+can also work with Java and C#.&lt;/p&gt;
 
-&lt;p&gt;So yeah; I got stuff to do. Lets watch some more youtube videos&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;server-management&#34;&gt;Server Management&lt;/h2&gt;
+
+&lt;p&gt;I have 10 years experience in Linux environment. To maintain those skills I have
+servers with CentOS and Ubuntu running at home trying different setups.&lt;/p&gt;
+
+&lt;h2 id=&#34;networking-skills&#34;&gt;Networking Skills&lt;/h2&gt;
+
+&lt;p&gt;I have read CCNA 2009 to 2012.&lt;/p&gt;
 </description>
     </item>
     
