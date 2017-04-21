@@ -6,16 +6,29 @@
     <description>Recent content in Posts on this is not another mental breakdown.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 Feb 2017 03:16:52 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 21 Apr 2017 15:52:59 +0200</lastBuildDate>
     <atom:link href="https://medik.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>hello world fuckers</title>
+      <title>wasd keyboard</title>
+      <link>https://medik.github.io/post/wasd-keyboard/</link>
+      <pubDate>Fri, 21 Apr 2017 15:52:59 +0200</pubDate>
+      
+      <guid>https://medik.github.io/post/wasd-keyboard/</guid>
+      <description>&lt;p&gt;I bought a new a keyboard recently, it is a MX Green 60% keyboard and it looks like this.&lt;/p&gt;
+
+&lt;p&gt;&lt;img later /&gt;
+It has different layers you can program. I feel thought that they could make it clearer what these layers are and how you change it. Besides of what I recently mentioned; it is a great keyboard. It made my table look spacier :-)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>hi</title>
       <link>https://medik.github.io/post/test/</link>
       <pubDate>Sun, 12 Feb 2017 03:16:52 +0100</pubDate>
       
       <guid>https://medik.github.io/post/test/</guid>
-      <description>&lt;p&gt;Yes. Hello world. I am a nobody. Carry on.&lt;/p&gt;
+      <description>&lt;p&gt;This is my first post.&lt;/p&gt;
 </description>
     </item>
     
