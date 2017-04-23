@@ -50,17 +50,19 @@ It has different layers you can program. I feel thought that they could make it 
 
 &lt;p&gt;I am a 23 year old physics student and currently located in Stockholm, Sweden. My hobbies include learning new programming languages, learning vegetarian recipies, listening on music, reading books and keeping up with current technology.&lt;/p&gt;
 
-&lt;p&gt;I use macOS, Windows and Linux. Nowadays my main operating system is a Mac. Stallman wouldn&amp;rsquo;t approve, but I figured that it won&amp;rsquo;t help what I try to do. However, my desktop computer is running a CentOS. My router is running OpenWRT.&lt;/p&gt;
+&lt;p&gt;Sadly, my main operating system is a Mac. Stallman wouldn&amp;rsquo;t approve, but I figured that it won&amp;rsquo;t help what I try to do. I rarely work in Windows and avoids it if I can. For servers and such I usually work with a Linux based distro. 99 per cent of the times it is Ubuntu (yeah Stallman, I know you hate me) and it is stable enough to be called my main server OS.&lt;/p&gt;
+
+&lt;p&gt;OpenWRT is running on my router. Mostly because of shit and giggles, but as control freak I like to have super duper control of the firewall.&lt;/p&gt;
 
 &lt;p&gt;xkcd and smbc is my main source of my daily chuckle. My friends are sending me to other pages. ;-)&lt;/p&gt;
 
-&lt;p&gt;This is an official statement: I am &lt;em&gt;not&lt;/em&gt; a hipster.&lt;/p&gt;
+&lt;p&gt;The Economist is providing me with weekly insight on what is hapening today.&lt;/p&gt;
 
 &lt;p&gt;I am involved in Stacken where I am currently the Secretary. Stacken is a computer club meant to be a hub for creating new software and learn new technologies.&lt;/p&gt;
 
-&lt;p&gt;My main programming languages is Python3. This is the language where I do all the easy stuff. Meanwhile my language where I need more &amp;ldquo;safety&amp;rdquo; is Java. I want Haskell to be my main functional programming language, and currently reading the &amp;ldquo;Learn you a Haskell&amp;rdquo;. I&amp;rsquo;ve also looked into Go and C for more lowlevel stuff and I will find a suitable project that fits those language in the future &amp;trade;.&lt;/p&gt;
+&lt;p&gt;Python3 is the programming languge where I do all the &amp;ldquo;need today asap etc&amp;rdquo; stuff. Meanwhile my language where I need more type safety and scalability is Java. I hope that Haskell will be my functional programming language of choice in the near future. I don&amp;rsquo;t usually write lowlevel code, but if I have to it would be either Go or C and I am no expert in these two.&lt;/p&gt;
 
-&lt;p&gt;Here is a list of things I&amp;rsquo;ve completed.&lt;/p&gt;
+&lt;p&gt;Here is a list of things I&amp;rsquo;ve completed so far.&lt;/p&gt;
 
 &lt;h2 id=&#34;programming&#34;&gt;Programming&lt;/h2&gt;
 
