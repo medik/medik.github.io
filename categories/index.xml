@@ -9,6 +9,24 @@
     <atom:link href="https://medik.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>what am I doing</title>
+      <link>https://medik.github.io/post/what-am-i-doing/</link>
+      <pubDate>Sun, 23 Apr 2017 12:14:59 +0200</pubDate>
+      
+      <guid>https://medik.github.io/post/what-am-i-doing/</guid>
+      <description>&lt;p&gt;What am I doing with my life. What current projects am working with at the momet?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I got a game development project going on in LÖVE..&lt;/li&gt;
+&lt;li&gt;I am learning Haskell.&lt;/li&gt;
+&lt;li&gt;I am working on a Software Defined Radio solution for SEAM.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I do have stuff to do&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>wasd keyboard</title>
       <link>https://medik.github.io/post/wasd-keyboard/</link>
       <pubDate>Fri, 21 Apr 2017 15:52:59 +0200</pubDate>

@@ -6,8 +6,26 @@
     <description>Recent content on this is not another mental breakdown.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Apr 2017 15:52:59 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 23 Apr 2017 12:14:59 +0200</lastBuildDate>
     <atom:link href="https://medik.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>what am I doing</title>
+      <link>https://medik.github.io/post/what-am-i-doing/</link>
+      <pubDate>Sun, 23 Apr 2017 12:14:59 +0200</pubDate>
+      
+      <guid>https://medik.github.io/post/what-am-i-doing/</guid>
+      <description>&lt;p&gt;What am I doing with my life. What current projects am working with at the momet?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I got a game development project going on in LÖVE..&lt;/li&gt;
+&lt;li&gt;I am learning Haskell.&lt;/li&gt;
+&lt;li&gt;I am working on a Software Defined Radio solution for SEAM.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I do have stuff to do&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>wasd keyboard</title>
@@ -24,21 +42,25 @@ It has different layers you can program. I feel thought that they could make it 
     
     <item>
       <title>Bio</title>
-      <link>https://medik.github.io/projects/</link>
+      <link>https://medik.github.io/bio/</link>
       <pubDate>Fri, 24 Feb 2017 10:11:24 +0100</pubDate>
       
-      <guid>https://medik.github.io/projects/</guid>
+      <guid>https://medik.github.io/bio/</guid>
       <description>
 
-&lt;p&gt;I got a lot of projects going on. Too bad I&amp;rsquo;m not going to finish them all&amp;hellip;
-Or am I? However, here is a list of most projects I&amp;rsquo;m worked on.&lt;/p&gt;
+&lt;p&gt;I am a 23 year old physics student and currently located in Stockholm, Sweden. My hobbies include learning new programming languages, learning vegetarian recipies, listening on music, reading books and keeping up with current technology.&lt;/p&gt;
 
-&lt;h1 id=&#34;hobbies&#34;&gt;Hobbies&lt;/h1&gt;
+&lt;p&gt;I use macOS, Windows and Linux. Nowadays my main operating system is a Mac. Stallman wouldn&amp;rsquo;t approve, but I figured that it won&amp;rsquo;t help what I try to do. However, my desktop computer is running a CentOS. My router is running OpenWRT.&lt;/p&gt;
 
-&lt;h2 id=&#34;assocation&#34;&gt;Assocation&lt;/h2&gt;
+&lt;p&gt;xkcd and smbc is my main source of my daily chuckle. My friends are sending me to other pages. ;-)&lt;/p&gt;
 
-&lt;p&gt;I am currently secretary for Stacken which means that I am responible for external
-and internal communication.&lt;/p&gt;
+&lt;p&gt;This is an official statement: I am &lt;em&gt;not&lt;/em&gt; a hipster.&lt;/p&gt;
+
+&lt;p&gt;I am involved in Stacken where I am currently the Secretary. Stacken is a computer club meant to be a hub for creating new software and learn new technologies.&lt;/p&gt;
+
+&lt;p&gt;My main programming languages is Python3. This is the language where I do all the easy stuff. Meanwhile my language where I need more &amp;ldquo;safety&amp;rdquo; is Java. I want Haskell to be my main functional programming language, and currently reading the &amp;ldquo;Learn you a Haskell&amp;rdquo;. I&amp;rsquo;ve also looked into Go and C for more lowlevel stuff and I will find a suitable project that fits those language in the future &amp;trade;.&lt;/p&gt;
+
+&lt;p&gt;Here is a list of things I&amp;rsquo;ve completed.&lt;/p&gt;
 
 &lt;h2 id=&#34;programming&#34;&gt;Programming&lt;/h2&gt;
 
