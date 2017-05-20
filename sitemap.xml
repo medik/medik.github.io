@@ -1,58 +1,44 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <url>
-    <loc>https://medik.github.io/post/what-am-i-doing/</loc>
-    <lastmod>2017-04-23T12:14:59+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://medik.github.io/post/wasd-keyboard/</loc>
-    <lastmod>2017-04-21T15:52:59+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://medik.github.io/bio/</loc>
-    <lastmod>2017-02-24T10:11:24+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://medik.github.io/post/test/</loc>
-    <lastmod>2017-02-12T03:16:52+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://medik.github.io/tags/</loc>
-    <lastmod>2017-04-23T12:14:59+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://medik.github.io/categories/</loc>
-    <lastmod>2017-04-23T12:14:59+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://medik.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://medik.github.io/post/</loc>
-    <lastmod>2017-04-23T12:14:59+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://medik.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://medik.github.io/</loc>
-    <lastmod>2017-04-23T12:14:59+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+ <url>
+  <loc>https://medik.github.io/</loc>
+  <lastmod>2017-05-19T22:51:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://medik.github.io/2017/</loc>
+  <lastmod>2017-05-19T22:51:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://medik.github.io/archive.html</loc>
+  <lastmod>2017-05-19T23:14:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://medik.github.io/categories/</loc>
+  <lastmod>2017-05-19T22:48:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://medik.github.io/galleries/</loc>
+  <lastmod>2017-05-19T22:48:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://medik.github.io/listings/</loc>
+  <lastmod>2017-05-19T22:48:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://medik.github.io/posts/hi/</loc>
+  <lastmod>2017-05-19T22:51:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://medik.github.io/posts/i-got-a-keyboard-fetish/</loc>
+  <lastmod>2017-05-19T23:14:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://medik.github.io/posts/i-got-a-mechanical-keyboard-fetish/</loc>
+  <lastmod>2017-05-19T23:22:00Z</lastmod>
+ </url>
 </urlset>
